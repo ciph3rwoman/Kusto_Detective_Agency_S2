@@ -7,7 +7,7 @@
 </p>
 
 
-## What is Kusto Detective Agency?
+# What is Kusto Detective Agency?
 The Kusto Detective Agency is a set of 5 challenges and an onboarding session that is designed to help you learn the Kusto Query Language (KQL).
 KQL is the language used by several Azure services including Azure Monitor, Sentinel, M365 Defender and Azure Data Explorer (ADX).
 
