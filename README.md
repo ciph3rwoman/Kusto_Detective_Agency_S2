@@ -11,3 +11,8 @@
 The Kusto Detective Agency is a set of 5 challenges and an onboarding session that is designed to help you learn the Kusto Query Language (KQL).
 KQL is the language used by several Azure services including Azure Monitor, Sentinel, M365 Defender and Azure Data Explorer (ADX).
 
+# Go to KDA and Setup your Cluster
+1. Go to https://detective.kusto.io
+2. Create a personal cluster following the instructions in FAQ: https://detective.kusto.io/faq
+3. Get started with KQL - Query language works: http://aka.ms/StartKqlVideo
+   
